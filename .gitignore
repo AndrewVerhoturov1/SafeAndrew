@@ -4,3 +4,5 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+.obsidian/plugins/
+.obsidian/community-plugins.json
