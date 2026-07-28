@@ -1,0 +1,26 @@
+schema_version: 1
+project:
+  name: SafeAndrew
+  repository: AndrewVerhoturov1/SafeAndrew
+  primary_branch: main
+  vault: Obsidian
+  human_language: ru
+  visible_names_language: ru
+  technical_ids_language: en
+workflow:
+  large_task_branch_pattern: feature/YYYYMMDD-short-kebab-slug
+  user_notes_may_write_main: true
+  agent_large_changes_require_branch: true
+  one_task_one_branch: true
+medical_policy:
+  primary_documents_are_canonical: true
+  facts_and_hypotheses_are_separate: true
+  medical_claims_require_sources: true
+  uncertainty_must_be_explicit: true
+  emergency_risk_must_be_highlighted: true
+entry_points:
+  - AGENTS.md
+  - 00 Главная.md
+  - system/medical-domains.yaml
+  - .agents/skills/SKILLS_INDEX.md
+updated: 2026-07-28

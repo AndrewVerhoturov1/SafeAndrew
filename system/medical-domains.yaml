@@ -1,0 +1,17 @@
+schema_version: 1
+domains:
+  - id: neurology
+    title: Неврология
+    status_path: 03 Заболевания и направления/Неврология/STATUS.md
+  - id: intestine-stoma
+    title: Кишечник и стома
+    status_path: 03 Заболевания и направления/Кишечник и стома/STATUS.md
+  - id: nutrition-deficiencies
+    title: Питание и дефициты
+    status_path: 03 Заболевания и направления/Питание и дефициты/STATUS.md
+  - id: spine
+    title: Позвоночник
+    status_path: 03 Заболевания и направления/Позвоночник/STATUS.md
+  - id: mental-health
+    title: Психическое состояние
+    status_path: 03 Заболевания и направления/Психическое состояние/STATUS.md
