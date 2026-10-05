@@ -134,6 +134,13 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 - этап 3: [[07 Научная база/Темы/Сенсорная полинейропатия против sensory neuronopathy-ganglionopathy|сенсорная полинейропатия против sensory neuronopathy]].
 
 Источник вводит отдельный формальный phenotype-check для ранней преимущественно сенсорной картины: ataxia, asymmetry, upper-limb SAP, non-length-dependent distribution и ограниченность motor abnormalities.
+
+### Antoine 2024 — inflammatory sensory neuronopathies
+
+- этап 1: [[07 Научная база/Источники/Antoine 2024 — inflammatory sensory neuronopathies — карточка источника|карточка современного обзора]];
+- этап 2: [[07 Научная база/Производные/Antoine 2024 — inflammatory sensory neuronopathies — русский разбор|ограниченный русский разбор доступной части]].
+
+Источник добавляет etiologic/immune слой: paraneoplastic SNN, Sjögren/systemic autoimmunity, anti-Hu и развивающиеся biomarkers anti-FGFR3/anti-AGO, а также важность раннего распознавания до необратимой DRG neuron loss. Полный текст издательский, поэтому этап 2 явно ограничен abstract/highlights/snippets.
 ## Использовано в полном анализе первичных документов
 
 - [[07 Научная база/Опорные источники для анализа 2026-08-11|Опорные источники для анализа 11.08.2026]]
