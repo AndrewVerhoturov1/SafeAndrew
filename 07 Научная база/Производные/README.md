@@ -31,3 +31,4 @@ updated: 2026-10-05
 - [[07 Научная база/Производные/Chen 2016 — взрослые референсные значения NCS — русский разбор|Chen 2016 — взрослые референсные значения NCS — русский разбор]]
 - [[07 Научная база/Производные/Camdessanché 2009 — sensory neuronopathy — русский разбор|Camdessanché 2009 — sensory neuronopathy — русский разбор]]
 - [[07 Научная база/Производные/Antoine 2024 — inflammatory sensory neuronopathies — русский разбор|Antoine 2024 — inflammatory sensory neuronopathies — ограниченный русский разбор]]
+- [[07 Научная база/Производные/Doppler-Sommer 2026 — autoimmune nodopathies — русский разбор|Doppler & Sommer 2026 — autoimmune nodopathies — ограниченный русский разбор]]
