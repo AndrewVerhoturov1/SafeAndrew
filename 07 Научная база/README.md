@@ -141,6 +141,14 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 - этап 2: [[07 Научная база/Производные/Antoine 2024 — inflammatory sensory neuronopathies — русский разбор|ограниченный русский разбор доступной части]].
 
 Источник добавляет etiologic/immune слой: paraneoplastic SNN, Sjögren/systemic autoimmunity, anti-Hu и развивающиеся biomarkers anti-FGFR3/anti-AGO, а также важность раннего распознавания до необратимой DRG neuron loss. Полный текст издательский, поэтому этап 2 явно ограничен abstract/highlights/snippets.
+
+### Doppler & Sommer 2026 — autoimmune nodopathies
+
+- этап 1: [[07 Научная база/Источники/Doppler-Sommer 2026 — autoimmune nodopathies — карточка источника|карточка современного обзора]];
+- этап 2: [[07 Научная база/Производные/Doppler-Sommer 2026 — autoimmune nodopathies — русский разбор|ограниченный русский разбор]];
+- этап 3: [[07 Научная база/Темы/Когда после ЭНМГ искать autoimmune nodopathy|когда после ЭНМГ искать autoimmune nodopathy]].
+
+Источник отделяет nodal/paranodal antibody neuropathies от classic CIDP и задаёт targeted gate: antibodies имеют смысл после подтверждения подходящего clinical/electrophysiological phenotype, а не как универсальный скрининг.
 ## Использовано в полном анализе первичных документов
 
 - [[07 Научная база/Опорные источники для анализа 2026-08-11|Опорные источники для анализа 11.08.2026]]
