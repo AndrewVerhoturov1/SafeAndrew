@@ -13,6 +13,7 @@
 | Задача | Путь |
 |---|---|
 | Быстрая запись питания, стомы, симптомов и самочувствия | `.agents/skills/capture-food-stoma-entry/SKILL.md` |
+| Добавление научного источника, производного разбора и тематического синтеза | `.agents/skills/build-scientific-library-document/SKILL.md` |
 
 ## Планируемые инструкции
 
