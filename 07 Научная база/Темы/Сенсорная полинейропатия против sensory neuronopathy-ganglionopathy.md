@@ -6,7 +6,7 @@ updated: 2026-10-05
 source_kind: thematic-synthesis
 source_stage: 3
 language: ru
-confidence: first-pass-single-core-source
+confidence: two-source-synthesis-limited-fulltext
 tags:
   - sensory-neuronopathy
   - ganglionopathy
@@ -22,6 +22,10 @@ tags:
 ## Основной источник
 
 [[07 Научная база/Источники/Camdessanché 2009 — критерии sensory neuronopathy — карточка источника]]
+
+Дополнительный etiologic источник:
+
+[[07 Научная база/Источники/Antoine 2024 — inflammatory sensory neuronopathies — карточка источника]]
 
 ## Главный вопрос
 
@@ -101,18 +105,31 @@ Posterior-column signal может встречаться при SNN вслед�
 - inflammatory/infectious causes;
 - genetic/metabolic myeloneuropathies.
 
-## 7. Следующий диагностический слой
+## 7. Etiology-directed поиск после подтверждения phenotype
 
-Если expert review поддерживает sensory neuronopathy phenotype, следующий поиск должен быть **etiology-directed**, а не общей панелью 'всё подряд'.
+Antoine 2024 добавляет правило: inflammatory SNN — не один диагноз, а группа.
 
-Следующий источник в базе:
+После подтверждения ganglionopathy phenotype причины следует разделять на:
 
-- Antoine 2024 — inflammatory sensory neuronopathies.
+- **paraneoplastic** — особенно anti-Hu context;
+- **Sjögren/systemic autoimmune**;
+- другие dysimmune/isolated inflammatory cases;
+- **infectious** — редко и только при соответствующем контексте;
+- **toxic/metabolic/genetic** — как альтернативные механизмы;
+- idiopathic после направленного исключения причин.
 
-После него тема должна разделить:
+## 8. Biomarkers: осторожный слой
 
-- Sjögren/dysimmune;
-- paraneoplastic;
-- toxic;
-- idiopathic;
-- genetic mimics.
+Anti-Hu имеет установленное значение в paraneoplastic context.
+
+Anti-FGFR3 и anti-AGO рассматриваются современным обзором как возможные biomarkers отдельных dysimmune SNN subsets, но **не должны автоматически входить в обязательную панель** до отдельной проверки assay validity и validation literature.
+
+## 9. Почему время может иметь значение
+
+Inflammatory SNN потенциально лечима лучше до необратимой sensory-neuron loss. Однако точные данные о therapeutic window не следует брать только из обзорного утверждения Antoine 2024.
+
+Для временной динамики нужен отдельный первичный источник Antoine et al. 2016.
+
+## 10. Ограничение текущей темы
+
+Полный текст Antoine 2024 в текущем открытом доступе не получен. Поэтому etiologic layer пока основан на abstract/highlights/доступных section snippets и не должен использоваться для выбора immunotherapy или конкретного antibody panel.
