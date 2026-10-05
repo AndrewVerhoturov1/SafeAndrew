@@ -18,7 +18,7 @@ authors: "Broers MC et al."
 year: 2021
 version: "first published 2021-03-03; European Journal of Neurology 28(6):2065-2073"
 doi: "10.1111/ene.14796"
-pmid: ""
+pmid: "33657260"
 pmcid: "PMC8252611"
 language: "en"
 license: "Open Access; Wiley article"
@@ -36,6 +36,7 @@ license: "Open Access; Wiley article"
 
 - **Wiley:** https://onlinelibrary.wiley.com/doi/full/10.1111/ene.14796
 - **DOI:** https://doi.org/10.1111/ene.14796
+- **PubMed:** https://pubmed.ncbi.nlm.nih.gov/33657260/
 - **PMC:** https://pmc.ncbi.nlm.nih.gov/articles/PMC8252611/
 - **Дата доступа:** 2026-10-05
 - **Полнота:** полный текст
@@ -52,6 +53,7 @@ license: "Open Access; Wiley article"
 - **Первая публикация:** 2021-03-03
 - **Тип:** original retrospective diagnostic study
 - **DOI:** 10.1111/ene.14796
+- **PMID:** 33657260
 - **PMCID:** PMC8252611
 - **Центр:** Erasmus MC, tertiary neuromuscular/CIDP expertise centre
 
