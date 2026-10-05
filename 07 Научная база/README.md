@@ -149,6 +149,13 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 - этап 3: [[07 Научная база/Темы/Когда после ЭНМГ искать autoimmune nodopathy|когда после ЭНМГ искать autoimmune nodopathy]].
 
 Источник отделяет nodal/paranodal antibody neuropathies от classic CIDP и задаёт targeted gate: antibodies имеют смысл после подтверждения подходящего clinical/electrophysiological phenotype, а не как универсальный скрининг.
+
+### Hannaford et al. 2024 — EDX и новые diagnostic modalities
+
+- этап 1: [[07 Научная база/Источники/Hannaford 2024 — EDX и новые диагностические методы — карточка источника|карточка invited review]];
+- этап 2: [[07 Научная база/Производные/Hannaford 2024 — EDX и новые диагностические методы — русский разбор|ограниченный русский разбор]].
+
+Источник задаёт место imaging: EDX остаётся primary modality, а nerve ultrasound/MRI используются как complementary tools в конкретных задачах, включая atypical CIDP, compression/trauma и структурную локализацию.
 ## Использовано в полном анализе первичных документов
 
 - [[07 Научная база/Опорные источники для анализа 2026-08-11|Опорные источники для анализа 11.08.2026]]
