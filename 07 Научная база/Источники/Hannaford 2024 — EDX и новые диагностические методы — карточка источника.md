@@ -2,25 +2,25 @@
 id: source-hannaford-edx-modalities-2024-card
 ntype: scientific-review
 status: active
-updated: 2026-10-05
+updated: 2026-10-08
 source_kind: controlled-source-card
 source_stage: 1
 original_immutable: true
 selection_mode: full
 source_storage: url
 source_file: ""
-source_url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28068"
+source_url: "https://onlinelibrary.wiley.com/doi/10.1002/mus.28068"
 source_sha256: "не применимо"
 source_size_bytes:
-retrieved: 2026-10-05
-organization: "Muscle & Nerve / Wiley; AANEM-linked review"
-authors: "Hannaford A et al."
+retrieved: 2026-10-08
+organization: "Muscle & Nerve / Wiley; AANEM educational review"
+authors: "Hannaford A; Paling E; Silsby M; Vincenten S; van Alfen N; Simon NG"
 year: 2024
-version: "Muscle & Nerve 69(6):653-669; first published 2024-03-03"
+version: "first published 2024-03-03; Muscle & Nerve 69(6):653-669"
 doi: "10.1002/mus.28068"
 pmid: "38433118"
 language: "en"
-license: "Version of Record; current full-text extraction not available through working tool"
+license: "© 2024 Wiley Periodicals LLC; reuse license not separately recorded"
 ---
 
 # Hannaford et al. 2024 — EDX и новые диагностические методы — карточка источника
@@ -28,17 +28,18 @@ license: "Version of Record; current full-text extraction not available through 
 > [!DANGER]
 > **ЭТА КАРТОЧКА НЕ ЯВЛЯЕТСЯ ОРИГИНАЛОМ.**
 >
-> Канонический оригинал — публикация Muscle & Nerve / Wiley.
-> Текущий этап 2 ограничен abstract и доступными bibliographic/educational descriptions.
+> Канонический оригинал — статья Wiley по DOI `10.1002/mus.28068`.
+> Производный русский разбор хранится отдельно.
 
 ## 1. Неизменяемый оригинал
 
-- **Wiley:** https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28068
+- **Wiley:** https://onlinelibrary.wiley.com/doi/10.1002/mus.28068
 - **PubMed:** https://pubmed.ncbi.nlm.nih.gov/38433118/
 - **DOI:** https://doi.org/10.1002/mus.28068
-- **Дата доступа:** 2026-10-05
-- **Полнота локального извлечения:** abstract + publisher objectives;
+- **Дата доступа:** 2026-10-08
+- **Полнота:** publisher page + abstract + references + metadata Supporting Information
 - **Язык:** английский
+- **SHA-256:** не применимо для URL
 
 ## 2. Паспорт источника
 
@@ -47,7 +48,6 @@ license: "Version of Record; current full-text extraction not available through 
 - **Журнал:** Muscle & Nerve
 - **Год:** 2024
 - **Том / выпуск / страницы:** 69(6):653–669
-- **Epub:** 2024-03-03
 - **Тип:** invited review
 - **DOI:** 10.1002/mus.28068
 - **PMID:** 38433118
@@ -55,84 +55,111 @@ license: "Version of Record; current full-text extraction not available through 
 ## 3. Режим отбора этапа 1
 
 - **Режим:** `full-link-only`
+- **Урезанная копия:** не создавалась
 - **Исключено:** ничего
 
-## 4. Цель обзора
+## 4. Задача обзора
 
-Сопоставить диагностическую роль EDX с более новыми методами, особенно:
+Авторы сопоставляют диагностическую роль:
 
-- MRI;
+- electrodiagnostic studies (NCS + needle EMG);
 - neuromuscular ultrasound;
+- MRI / MR neurography;
+- других новых imaging approaches
 
-в common peripheral nerve disorders.
+при common peripheral nerve disorders.
 
-Фокус:
+Разобраны:
 
 - radiculopathy;
 - plexopathy;
-- compressive neuropathies;
+- compressive mononeuropathies;
 - traumatic neuropathies;
-- GBS;
+- Guillain–Barré syndrome;
 - CIDP;
 - vasculitic neuropathy;
 - diabetic neuropathy.
 
-## 5. Главный вывод abstract
+## 5. Главный вывод
 
-EDX сохраняет роль **primary diagnostic modality** в рассмотренных peripheral nerve disorders.
+EDX сохраняет роль **основного диагностического метода** в большинстве рассмотренных peripheral nerve disorders.
 
-MRI и ultrasound имеют важные complementary roles:
+Imaging/ultrasound чаще являются **дополняющими**, а не заменяющими исследованиями.
+
+Особенно полезная complementary role описана для:
 
 - compressive neuropathies;
 - traumatic neuropathies;
 - atypical CIDP;
-
-но их доказательная/диагностическая роль более ограничена в ряде других neuropathy subtypes.
+- некоторых structural nerve lesions.
 
 ## 6. CIDP
 
-Обзор отмечает complementary значение nerve ultrasound и MRI в atypical CIDP.
+Обзор использует EAN/PNS 2021 как нормативную основу и обсуждает:
 
-Это не означает, что imaging заменяет формальные clinical/EDX criteria.
+- NCS criteria;
+- nerve ultrasound;
+- plexus MRI;
+- antibody testing;
+- mimics.
 
-## 7. Radiculopathy
+Ultrasound и MRI могут повысить diagnostic confidence в selected atypical/uncertain cases, но не заменяют clinical + EDX framework.
 
-Авторы подчёркивают сложность diagnosis:
+## 7. Radiculopathy / plexopathy
 
-- clinical features и imaging плохо коррелируют;
-- отсутствует идеальный diagnostic gold standard.
+Для radiculopathy авторы подчёркивают:
 
-Следовательно, MRI позвоночника не должен автоматически заменять electrophysiologic localization.
+- несовершенную correlation clinical findings ↔ imaging;
+- отсутствие идеального diagnostic gold standard;
+- ценность EDX для функциональной локализации и выявления motor axonal injury.
 
-## 8. Почему источник добавлен
+Imaging показывает структуру; EDX — физиологическую функцию.
 
-Он помогает будущему агенту выбрать место новых методов:
+## 8. Vasculitic / diabetic neuropathy
 
-`EDX first / imaging complementary`
+При vasculitic neuropathy EDX помогает показать multifocal/asymmetric axonal pattern, но etiology может требовать pathology/systemic context.
 
-вместо попытки заменить спорную ЭНМГ одним MRI/ultrasound.
+При diabetic neuropathy slowing и temporal dispersion могут пересекаться с inflammatory neuropathy, поэтому isolated `demyelinating-like` findings нельзя трактовать без контекста.
 
-## 9. Ограничения
+## 9. Supporting Information
 
-- review, а не единое prospective diagnostic study;
-- текущий этап 2 не основан на full-text extraction;
-- diagnostic performance зависит от конкретной disease и modality;
-- обзор не даёт универсальный алгоритм для всех polyneuropathies;
-- disease-specific decisions по CIDP остаются за EAN/PNS.
+Wiley указывает supplementary tables по:
 
-## 10. Проверка этапа 1
+- compressive mononeuropathy;
+- Guillain–Barré syndrome;
+- CIDP
+
+с literature on diagnostic performance.
+
+## 10. Почему источник добавлен
+
+Это современная карта места EDX среди imaging methods.
+
+Она защищает от двух ошибок:
+
+1. считать ЭНМГ единственным достаточным методом;
+2. пытаться заменить функциональную EDX одним MRI/ultrasound.
+
+## 11. Ограничения
+
+- invited review, а не единое prospective diagnostic study;
+- disease-specific evidence heterogeneous;
+- отсутствие gold standard ограничивает direct modality comparisons;
+- обзор не заменяет disease-specific guidelines;
+- точные thresholds/cut-offs должны браться из первичных/специализированных источников.
+
+## 12. Проверка этапа 1
 
 - [x] DOI/PMID/publisher URL записаны;
-- [x] scope и ограничения сохранены;
-- [x] этап 2 помечен как limited extraction;
+- [x] этап 1 не сокращён;
+- [x] Supporting Information отмечен;
 - [x] imaging не объявлен заменой EDX;
 - [x] персональный диагноз отсутствует.
 
-## 11. Производные документы этапа 2
+## 13. Производные документы этапа 2
 
 - [[07 Научная база/Производные/Hannaford 2024 — EDX и новые диагностические методы — русский разбор]]
 
-## 12. Связанные темы этапа 3
+## 14. Связанные темы этапа 3
 
-- [[07 Научная база/Темы/ЭНМГ — качество выполнения и отчётности]]
-- [[07 Научная база/Темы/CIDP — формальное применение критериев EAN-PNS 2021]]
+- [[07 Научная база/Темы/ЭНМГ — роль EDX и дополняющей визуализации]]
