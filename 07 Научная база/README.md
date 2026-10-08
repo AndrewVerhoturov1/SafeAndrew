@@ -174,12 +174,6 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 
 Источник отделяет nodal/paranodal antibody neuropathies от classic CIDP и задаёт targeted gate: antibodies имеют смысл после подтверждения подходящего clinical/electrophysiological phenotype, а не как универсальный скрининг.
 
-### Hannaford et al. 2024 — EDX и новые diagnostic modalities
-
-- этап 1: [[07 Научная база/Источники/Hannaford 2024 — EDX и новые диагностические методы — карточка источника|карточка invited review]];
-- этап 2: [[07 Научная база/Производные/Hannaford 2024 — EDX и новые диагностические методы — русский разбор|ограниченный русский разбор]].
-
-Источник задаёт место imaging: EDX остаётся primary modality, а nerve ultrasound/MRI используются как complementary tools в конкретных задачах, включая atypical CIDP, compression/trauma и структурную локализацию.
 ## Источники по AGID и аутоиммунной дисавтономии
 
 ### Concept / clinical evidence
@@ -208,6 +202,8 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 - [[07 Научная база/Темы/Sjogren и paraneoplastic pathways при sensory-autonomic phenotype]].
 
 Рабочий patient-specific plan: [[10 Врачи и приёмы/План проверки AGID и аутоиммунной дисавтономии]].
+
+Patient-specific evidence matrix: [[10 Врачи и приёмы/AGID — рабочая матрица доказательств]].
 
 ## Источники по генетике нейропатии и кишечной дисмоторики
 
@@ -246,6 +242,8 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 Patient-specific:
 - [[10 Врачи и приёмы/План генетического обследования нейропатии и CIPO]];
 - [[10 Врачи и приёмы/Генетика neuro-GI — рабочая матрица гипотез]].
+
+Cross-domain decision map: [[07 Научная база/Темы/Neuro-GI — immune-autonomic против genetic-neuromuscular причин]].
 
 ## Использовано в полном анализе первичных документов
 
