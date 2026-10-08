@@ -142,6 +142,14 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 
 Источник добавляет etiologic/immune слой: paraneoplastic SNN, Sjögren/systemic autoimmunity, anti-Hu и развивающиеся biomarkers anti-FGFR3/anti-AGO, а также важность раннего распознавания до необратимой DRG neuron loss. Полный текст издательский, поэтому этап 2 явно ограничен abstract/highlights/snippets.
 
+### Antoine et al. 2016 — therapeutic window inflammatory SNN
+
+- этап 1: [[07 Научная база/Источники/Antoine 2016 — therapeutic window sensory neuronopathy — карточка источника|карточка observational study]];
+- этап 2: [[07 Научная база/Производные/Antoine 2016 — therapeutic window sensory neuronopathy — русский разбор|русский разбор временной динамики SNAP]];
+- этап 3: [[07 Научная база/Темы/Inflammatory sensory neuronopathy — временное окно и срочность диагностики|временное окно и срочность диагностики]].
+
+Исследование даёт observational основу для срочности: SNAP decline особенно быстро в первые 2 месяца, slowing после ~7 месяцев, proposed stabilization window около 8 месяцев. Эти сроки не являются универсальным treatment deadline и применимы только к acute/subacute inflammatory SNN context.
+
 ### Hannaford et al. 2024 — EDX и новые диагностические методы
 
 - этап 1: [[07 Научная база/Источники/Hannaford 2024 — EDX и новые диагностические методы — карточка источника|карточка обзора]];
