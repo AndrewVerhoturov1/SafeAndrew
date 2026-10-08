@@ -37,6 +37,7 @@ updated: 2026-10-08
 - [[07 Научная база/Производные/Hearn 2024 — serial EDX — русский разбор|Hearn 2024 — serial EDX — русский разбор]]
 - [[07 Научная база/Производные/Hannaford 2024 — EDX и новые диагностические методы — русский разбор|Hannaford 2024 — EDX и новые диагностические методы — ограниченный русский разбор]]
 - [[07 Научная база/Производные/Nakane 2021 — AGID — русский разбор|Nakane 2021 — AGID — русский разбор]]
+- [[07 Научная база/Производные/Nakane 2024 — autoimmune autonomic neuropathy — русский разбор|Nakane 2024 — autoimmune autonomic neuropathy — русский разбор]]
 - [[07 Научная база/Производные/Flanagan 2014 — AGID immunotherapy trial — русский разбор|Flanagan 2014 — AGID immunotherapy trial — русский разбор]]
 - [[07 Научная база/Производные/Dhamija 2008 — AGID serology — русский разбор|Dhamija 2008 — AGID serology — русский разбор]]
 - [[07 Научная база/Производные/Cortez 2026 — autonomic testing — русский разбор|Cortez 2026 — autonomic testing — русский разбор]]
