@@ -6,7 +6,7 @@ updated: 2026-10-05
 source_kind: thematic-synthesis
 source_stage: 3
 language: ru
-confidence: two-source-synthesis-limited-fulltext
+confidence: three-source-synthesis
 tags:
   - sensory-neuronopathy
   - ganglionopathy
@@ -126,9 +126,15 @@ Anti-FGFR3 и anti-AGO рассматриваются современным о�
 
 ## 9. Почему время может иметь значение
 
-Inflammatory SNN потенциально лечима лучше до необратимой sensory-neuron loss. Однако точные данные о therapeutic window не следует брать только из обзорного утверждения Antoine 2024.
+Первичный источник Antoine et al. 2016 теперь добавлен:
 
-Для временной динамики нужен отдельный первичный источник Antoine et al. 2016.
+[[07 Научная база/Источники/Antoine 2016 — therapeutic window sensory neuronopathy — карточка источника]]
+
+В acute/subacute inflammatory SNN cohort SNAP decline был самым быстрым в первые ~2 месяца, начинал замедляться после ~7 месяцев и в среднем стабилизировался к ~10 месяцам. Авторы предложили окно около 8 месяцев для потенциальной стабилизации и около 2 месяцев для наибольшей возможности улучшения.
+
+Это **не universal treatment deadline**: исследование retrospective и использует SNAP как surrogate marker.
+
+Подробно: [[07 Научная база/Темы/Inflammatory sensory neuronopathy — временное окно и срочность диагностики]].
 
 ## 10. Ограничение текущей темы
 
