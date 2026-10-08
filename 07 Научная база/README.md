@@ -142,6 +142,14 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 
 Источник добавляет etiologic/immune слой: paraneoplastic SNN, Sjögren/systemic autoimmunity, anti-Hu и развивающиеся biomarkers anti-FGFR3/anti-AGO, а также важность раннего распознавания до необратимой DRG neuron loss. Полный текст издательский, поэтому этап 2 явно ограничен abstract/highlights/snippets.
 
+### Hannaford et al. 2024 — EDX и новые диагностические методы
+
+- этап 1: [[07 Научная база/Источники/Hannaford 2024 — EDX и новые диагностические методы — карточка источника|карточка обзора]];
+- этап 2: [[07 Научная база/Производные/Hannaford 2024 — EDX и новые диагностические методы — русский разбор|русский разбор]];
+- этап 3: [[07 Научная база/Темы/ЭНМГ — роль EDX и дополняющей визуализации|роль EDX и дополняющей визуализации]].
+
+Этот источник задаёт современную общую рамку: EDX остаётся основным functional diagnostic tool, а ultrasound/MRI используются как complementary methods под конкретный нерешённый structural question.
+
 ### Doppler & Sommer 2026 — autoimmune nodopathies
 
 - этап 1: [[07 Научная база/Источники/Doppler-Sommer 2026 — autoimmune nodopathies — карточка источника|карточка современного обзора]];
