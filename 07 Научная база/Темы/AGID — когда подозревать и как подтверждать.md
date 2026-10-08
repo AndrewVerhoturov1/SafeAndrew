@@ -24,6 +24,7 @@ tags:
 2. [[07 Научная база/Источники/Flanagan 2014 — immunotherapy trial AGID — карточка источника]].
 3. [[07 Научная база/Источники/Dhamija 2008 — serological profiles AGID — карточка источника]].
 4. [[07 Научная база/Источники/Lamotte-Sandroni 2022 — peripheral autonomic neuropathies — карточка источника]].
+5. [[07 Научная база/Источники/Nakane 2024 — autoimmune autonomic neuropathy — карточка источника]].
 
 ## 1. AGID — hypothesis, not symptom label
 
@@ -37,6 +38,21 @@ AGID становится сильнее, когда одновременно е
 - autoimmune/paraneoplastic clues;
 - phenotype-compatible neural antibody;
 - reasonable exclusion of major mimics.
+
+## 2. Сначала отличить generalized AAG от limited enteric phenotype
+
+Nakane 2024 подчёркивает sequence:
+
+1. onset/time course;
+2. autonomic + extra-autonomic phenotype;
+3. objective physiology;
+4. laboratory/antibody validation.
+
+Для GI-dominant presentation нужно отдельно ответить:
+
+- есть ли **generalized autonomic failure**;
+- или disorder преимущественно enteric;
+- или chronic nonimmune neurogastrointestinal disease лучше объясняет картину.
 
 ## 2. Objective GI layer
 
