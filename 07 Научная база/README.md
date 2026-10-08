@@ -187,6 +187,7 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 - [[07 Научная база/Источники/Nakane 2021 — autoimmune gastrointestinal dysmotility — карточка источника|Nakane 2021 — AGID review]];
 - [[07 Научная база/Источники/Flanagan 2014 — immunotherapy trial AGID — карточка источника|Flanagan 2014 — objective immunotherapy trial cohort]];
 - [[07 Научная база/Источники/Dhamija 2008 — serological profiles AGID — карточка источника|Dhamija 2008 — serological profiles]].
+- [[07 Научная база/Источники/Nakane 2024 — autoimmune autonomic neuropathy — карточка источника|Nakane 2024 — autoimmune autonomic neuropathy]].
 
 ### Objective autonomic testing
 
