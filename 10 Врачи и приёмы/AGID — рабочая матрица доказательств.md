@@ -34,8 +34,8 @@ tags:
 | Tempo | **многолетний хронический** | менее типично для classic subacute AGID/AAG |
 | Orthostatic adrenergic failure | **не документирован standardized** | главный пробел |
 | Cardiovagal failure | **не документирован standardized** | главный пробел |
-| Sudomotor failure | **не документирован standardized** | главный пробел |
-| Bladder/pupillary/secretomotor phenotype | **нужно системно собрать** | поможет generalized vs enteric-limited classification |
+| Sudomotor failure | **нет объективной проверки**; со слов пациента летом 2026 года был необычно сильный эпизод потоотделения, без измерений и установленной причины | требуется объективная проверка при показаниях |
+| Bladder/pupillary/secretomotor phenotype | **частично по рассказу:** с ~2013–2014 гг. зрачки иногда различаются, но разница непостоянна, врачебные осмотры неоднородны; мочеиспускание по осмотру 2026 года сохранено; остальные признаки не собраны | требуется объективизация; сам по себе симптом не подтверждает заболевание вегетативной системы |
 | Autonomic reflex screen / CASS | **нет в базе** | самый информативный следующий discriminator при compatible symptoms |
 | gAChR antibody | **нет валидированного результата в базе** | testing only after phenotype; low titer alone weak |
 | Neural/paraneoplastic antibodies | **нет phenotype-linked modern panel** | targeted only if risk phenotype |
@@ -43,6 +43,9 @@ tags:
 | Objective immunotherapy response | **нет** | no supportive treatment-response evidence |
 | Mechanical/postsurgical causes | **есть** for some obstruction episodes | coexist and must not be mislabeled AGID |
 | Genetic/mitochondrial alternative | **open and important** | chronic young-onset phenotype makes this major competing branch |
+
+> [!NOTE]
+> **Уточнение 08.10.2026, со слов пациента:** редкие (примерно ежемесячные) ночные приступы очень сильного голода в ранний период; позднее многочасовая изжога; затем нарушение устойчивости в темноте и, спустя 6–12 месяцев, онемение. Упомянуты эпизодическая разница зрачков, сильная потливость летом 2026 года и частые разнообразные боли без достаточного описания. **Эти сведения не устанавливают нарушение автоматической нервной регуляции и тем более его иммунную причину.** Приоритет — объективное исследование по клиническим показаниям, затем целевые анализы. [[01 Медицинская картина/Неврологический анамнез 2015-2026 со слов пациента]].
 
 ## Current evidence grade
 
