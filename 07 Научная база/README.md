@@ -2,7 +2,7 @@
 id: science-index
 ntype: navigation
 status: active
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Научная база
@@ -180,6 +180,34 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 - этап 2: [[07 Научная база/Производные/Hannaford 2024 — EDX и новые диагностические методы — русский разбор|ограниченный русский разбор]].
 
 Источник задаёт место imaging: EDX остаётся primary modality, а nerve ultrasound/MRI используются как complementary tools в конкретных задачах, включая atypical CIDP, compression/trauma и структурную локализацию.
+## Источники по AGID и аутоиммунной дисавтономии
+
+### Concept / clinical evidence
+
+- [[07 Научная база/Источники/Nakane 2021 — autoimmune gastrointestinal dysmotility — карточка источника|Nakane 2021 — AGID review]];
+- [[07 Научная база/Источники/Flanagan 2014 — immunotherapy trial AGID — карточка источника|Flanagan 2014 — objective immunotherapy trial cohort]];
+- [[07 Научная база/Источники/Dhamija 2008 — serological profiles AGID — карточка источника|Dhamija 2008 — serological profiles]].
+
+### Objective autonomic testing
+
+- [[07 Научная база/Источники/Cortez 2026 — autonomic testing consensus — карточка источника|Cortez 2026 — AAS/AANEM autonomic testing consensus]];
+- [[07 Научная база/Источники/Lamotte-Sandroni 2022 — peripheral autonomic neuropathies — карточка источника|Lamotte & Sandroni 2022 — autonomic neuropathy review]].
+
+### Antibody / systemic autoimmune / paraneoplastic interpretation
+
+- [[07 Научная база/Источники/Cutsforth-Gregory 2018 — ganglionic AChR titer — карточка источника|Cutsforth-Gregory 2018 — gAChR titer]];
+- [[07 Научная база/Источники/Deboo 2026 — Sjogren PNS-ANS guideline — карточка источника|Deboo 2026 — Sjögren PNS/ANS guideline]];
+- [[07 Научная база/Источники/Graus 2021 — PNS-Care criteria — карточка источника|Graus 2021 — PNS-Care criteria]].
+
+### Темы
+
+- [[07 Научная база/Темы/AGID — когда подозревать и как подтверждать]];
+- [[07 Научная база/Темы/Автономная нейропатия — объективное тестирование]];
+- [[07 Научная база/Темы/Нейрональные антитела при дисмотилитете — интерпретация без переоценки]];
+- [[07 Научная база/Темы/Sjogren и paraneoplastic pathways при sensory-autonomic phenotype]].
+
+Рабочий patient-specific plan: [[10 Врачи и приёмы/План проверки AGID и аутоиммунной дисавтономии]].
+
 ## Использовано в полном анализе первичных документов
 
 - [[07 Научная база/Опорные источники для анализа 2026-08-11|Опорные источники для анализа 11.08.2026]]
