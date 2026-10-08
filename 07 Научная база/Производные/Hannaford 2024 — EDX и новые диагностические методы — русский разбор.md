@@ -2,13 +2,13 @@
 id: derived-hannaford-edx-modalities-2024-ru
 ntype: scientific-review
 status: active
-updated: 2026-10-05
-source_kind: derived-limited-extract
+updated: 2026-10-08
+source_kind: derived-structured-extract
 source_stage: 2
 derived_from:
   - source-hannaford-edx-modalities-2024-card
 language: ru
-confidence: abstract-and-publisher-objectives-derived
+confidence: review-derived
 tags:
   - ЭНМГ
   - ultrasound
@@ -18,84 +18,120 @@ tags:
 
 # Hannaford 2024 — EDX и новые диагностические методы — русский разбор
 
-> [!WARNING]
-> Этап 2 ограничен abstract/publisher objectives. Не официальный перевод и не полный конспект статьи.
+> [!IMPORTANT]
+> Этап 2. Не официальный перевод.
 >
 > Канонический источник: [[07 Научная база/Источники/Hannaford 2024 — EDX и новые диагностические методы — карточка источника]].
 
-## 1. Главный вопрос
+## 1. Основная рамка
 
-Могут ли MRI/ultrasound заменить electrodiagnostic studies при peripheral nerve disorders?
+EDX отвечает прежде всего на **functional questions**:
 
-Ответ обзора в целом:
+- локализация lesion;
+- axonal vs demyelinating/nodal features;
+- motor/sensory involvement;
+- severity;
+- active denervation/reinnervation;
+- distribution.
 
-> **нет; EDX остаётся primary diagnostic modality, imaging чаще дополняет его.**
+Ultrasound/MRI отвечают прежде всего на **structural questions**:
 
-## 2. Где imaging особенно полезен
+- enlargement;
+- compression;
+- continuity;
+- plexus/root morphology;
+- focal lesion.
 
-Наиболее выраженная complementary role описана для:
+Методы не являются прямыми заменителями друг друга.
 
-- compressive neuropathy;
-- traumatic nerve injury;
-- atypical CIDP;
-- отдельных structural lesions.
+## 2. Где EDX остаётся основным методом
 
-Ultrasound даёт anatomical information, которой нет в обычной NCS/needle EMG.
+По обзору EDX сохраняет центральную роль при:
 
-## 3. CIDP
+- polyneuropathy;
+- radiculopathy;
+- many compressive neuropathies;
+- GBS/CIDP electrophysiological classification;
+- vasculitic neuropathy pattern;
+- diabetic neuropathy.
 
-При atypical CIDP nerve ultrasound/MRI могут поддерживать diagnosis.
+## 3. Когда ultrasound добавляет ценность
 
-Но правильная логика:
+Neuromuscular ultrasound особенно полезен при:
+
+- focal nerve enlargement;
+- entrapment;
+- traumatic lesions;
+- neuralgic amyotrophy / hourglass constriction;
+- selected chronic inflammatory neuropathies.
+
+При CIDP ultrasound — supportive tool, а не standalone diagnosis.
+
+## 4. MRI / MR neurography
+
+Может быть полезна при:
+
+- plexus/root pathology;
+- traumatic plexus lesions;
+- atypical CIDP supportive evidence;
+- structural radiculopathy context.
+
+Structural abnormality сама по себе не доказывает functional causality.
+
+## 5. Radiculopathy
+
+В radiculopathy:
+
+- clinical localization imperfect;
+- MRI abnormalities могут плохо совпадать с symptoms;
+- EDX тоже не обладает 100% sensitivity;
+- идеального gold standard нет.
+
+Discordance MRI ↔ EDX должна анализироваться, а не автоматически разрешаться в пользу одного метода.
+
+## 6. CIDP
+
+Последовательность:
 
 1. clinical phenotype;
-2. EDX criteria;
-3. supportive imaging при соответствующем вопросе.
+2. EAN/PNS NCS criteria;
+3. data quality;
+4. supportive ultrasound/MRI, если это меняет confidence;
+5. mimics.
 
-Не:
+## 7. Vasculitic neuropathy
 
-`нерв увеличен на УЗИ → CIDP`.
+EDX помогает выявить:
 
-## 4. Radiculopathy
+- axonal pattern;
+- asymmetry;
+- multifocal involvement.
 
-MRI показывает structural anatomy, но structure и symptoms/physiology могут плохо коррелировать.
+Но это не histological proof vasculitis.
 
-EDX отвечает на другой вопрос:
+## 8. Diabetic neuropathy как mimic
 
-- есть ли functional nerve-root/axon injury;
-- какова distribution;
-- есть ли active/chronic denervation.
+Diabetic sensorimotor polyneuropathy может давать slowing.
 
-Поэтому MRI и EDX — не взаимозаменяемые тесты.
+Обзор приводит literature, где temporal dispersion и distal CMAP duration не всегда надёжно различают diabetic neuropathy и CIDP.
 
-## 5. Plexopathy и focal neuropathy
+Следовательно, `demyelinating-like feature` всегда оценивается вместе с amplitude/distribution/clinical context.
 
-EDX помогает physiological localization, а imaging может показать:
+## 9. Как выбирать следующий метод
 
-- structural nerve lesion;
-- compression;
-- traumatic discontinuity;
-- focal morphology.
+| Нерешённый вопрос | Первый слой | Возможное дополнение |
+|---|---|---|
+| Polyneuropathy phenotype | NCS + needle EMG | ultrasound/MRI по phenotype |
+| Root vs peripheral nerve | clinical + EDX | spine/plexus MRI |
+| Focal compression | NCS/clinical | ultrasound |
+| Structural lesion / continuity | ultrasound/MRI | EDX для function |
+| Possible/atypical CIDP | EAN/PNS EDX framework | nerve ultrasound / plexus MRI |
+| Vasculitic pattern | clinical + EDX | labs/biopsy/imaging по контексту |
 
-Лучший результат часто даёт объединение методов, если clinical question оправдывает imaging.
+## 10. Правило SafeAndrew
 
-## 6. Что это меняет в SafeAndrew
+Перед новым методом записывать:
 
-После expert EDX review дополнительное nerve ultrasound/MRI имеет смысл только с конкретным вопросом, например:
+> Какой конкретный нерешённый вопрос этот тест должен закрыть?
 
-- atypical inflammatory neuropathy support;
-- focal compression;
-- plexus/nerve structural abnormality;
-- discordance между клиникой и EDX.
-
-Не следует делать imaging 'вместо' пересмотра исходных кривых.
-
-## 7. Что источник не даёт
-
-Текущая доступная часть не позволяет локально сохранить:
-
-- detailed sensitivity/specificity по каждой modality;
-- protocol-specific ultrasound cut-offs;
-- полный evidence grading.
-
-До full-text extraction нельзя создавать на его основе конкретные ultrasound/MRI thresholds.
+Если вопрос не сформулирован, технологически новый тест не становится автоматически приоритетным.
