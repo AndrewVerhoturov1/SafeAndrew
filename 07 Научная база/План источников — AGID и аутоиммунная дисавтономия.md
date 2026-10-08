@@ -51,6 +51,13 @@ PMCID: PMC2741093
 
 Роль: исторически важная Mayo cohort, показывающая spectrum GI dysmotility + neural autoantibodies + cancer.
 
+### A4. Nakane et al. 2024 — autoimmune autonomic neuropathy
+DOI: 10.3390/ijms25042296  
+PMID: 38396973  
+PMCID: PMC10889307
+
+Роль: современный AAG framework — onset/time course → autonomic/extra-autonomic phenotype → objective testing → antibody context.
+
 ### B1. Cortez et al. 2026 — autonomic testing consensus
 DOI: 10.1007/s10286-026-01238-9  
 PMID: 42766240
