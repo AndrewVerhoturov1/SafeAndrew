@@ -150,6 +150,14 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 
 Исследование даёт observational основу для срочности: SNAP decline особенно быстро в первые 2 месяца, slowing после ~7 месяцев, proposed stabilization window около 8 месяцев. Эти сроки не являются универсальным treatment deadline и применимы только к acute/subacute inflammatory SNN context.
 
+### Hearn et al. 2024 — serial electrodiagnostic testing
+
+- этап 1: [[07 Научная база/Источники/Hearn 2024 — serial EDX — карточка источника|карточка AANEM monograph]];
+- этап 2: [[07 Научная база/Производные/Hearn 2024 — serial EDX — русский разбор|русский разбор]];
+- этап 3: [[07 Научная база/Темы/ЭНМГ — правила серийного сравнения и повторного исследования|правила серийного сравнения и repeat EDX]].
+
+Этот источник задаёт отдельную научную основу для longitudinal review: когда repeat EDX способен подтвердить progression/evolving mechanism, а когда нужен потому, что initial study incomplete и сравнение старых цифр ненадёжно.
+
 ### Hannaford et al. 2024 — EDX и новые диагностические методы
 
 - этап 1: [[07 Научная база/Источники/Hannaford 2024 — EDX и новые диагностические методы — карточка источника|карточка обзора]];
