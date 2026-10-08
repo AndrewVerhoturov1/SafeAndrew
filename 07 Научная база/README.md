@@ -209,6 +209,44 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 
 Рабочий patient-specific plan: [[10 Врачи и приёмы/План проверки AGID и аутоиммунной дисавтономии]].
 
+## Источники по генетике нейропатии и кишечной дисмоторики
+
+### Genetic testing strategy
+
+- [[07 Научная база/Источники/Saporta 2026 — genetic testing peripheral neuropathy — карточка источника|Saporta 2026 — guideline по genetic testing inherited neuropathy]].
+
+### Mitochondrial / MNGIE-like
+
+- [[07 Научная база/Источники/MNGIE International Network 2021 — position paper — карточка источника|MNGIE International Network position paper]];
+- [[07 Научная база/Источники/MNGIE GeneReviews — TYMP — карточка источника|MNGIE GeneReviews — TYMP]];
+- [[07 Научная база/Источники/mtDNA maintenance defects GeneReviews — карточка источника|mtDNA maintenance defects overview]];
+- [[07 Научная база/Источники/POLG GeneReviews 2024 — карточка источника|POLG GeneReviews 2024]];
+- [[07 Научная база/Источники/RRM2B GeneReviews — карточка источника|RRM2B GeneReviews]].
+
+### Sensory-ataxia repeat expansion
+
+- [[07 Научная база/Источники/RFC1 GeneReviews 2026 — карточка источника|RFC1 GeneReviews 2026]].
+
+### CIPO / enteric neuromyopathy / visceral myopathy
+
+- [[07 Научная база/Источники/Bianco 2022 — enteric neuromyopathies genetics — карточка источника|Bianco 2022 — enteric neuromyopathies]];
+- [[07 Научная база/Источники/ACTG2 GeneReviews — visceral myopathy — карточка источника|ACTG2 visceral myopathy]];
+- [[07 Научная база/Источники/Fournier-Fabre 2022 — smooth muscle motility genes — карточка источника|Fournier & Fabre 2022 — smooth-muscle motility genes]];
+- [[07 Научная база/Источники/Basilisco 2024 — adult CIPO practical guide — карточка источника|Basilisco 2024 — adult CIPO practical guide]];
+- [[07 Научная база/Источники/London Classification 2010 — GI neuromuscular pathology — карточка источника|London Classification — GI neuromuscular pathology]].
+
+### Тематические синтезы
+
+- [[07 Научная база/Темы/Генетическая стратегия — нейропатия плюс тяжёлая дисмоторика ЖКТ]];
+- [[07 Научная база/Темы/MNGIE и MNGIE-like — когда и как проверять]];
+- [[07 Научная база/Темы/RFC1 — repeat-expansion ветка при sensory ataxia]];
+- [[07 Научная база/Темы/CIPO — enteric neuropathy против visceral myopathy — генетическая карта]];
+- [[07 Научная база/Темы/Полнослойная гистология кишечника — что должен оценить эксперт]].
+
+Patient-specific:
+- [[10 Врачи и приёмы/План генетического обследования нейропатии и CIPO]];
+- [[10 Врачи и приёмы/Генетика neuro-GI — рабочая матрица гипотез]].
+
 ## Использовано в полном анализе первичных документов
 
 - [[07 Научная база/Опорные источники для анализа 2026-08-11|Опорные источники для анализа 11.08.2026]]
