@@ -34,4 +34,5 @@ updated: 2026-10-05
 - [[07 Научная база/Производные/Antoine 2016 — therapeutic window sensory neuronopathy — русский разбор|Antoine 2016 — therapeutic window inflammatory SNN — русский разбор]]
 - [[07 Научная база/Производные/Doppler-Sommer 2026 — autoimmune nodopathies — русский разбор|Doppler & Sommer 2026 — autoimmune nodopathies — ограниченный русский разбор]]
 - [[07 Научная база/Производные/Hannaford 2024 — EDX и новые диагностические методы — русский разбор|Hannaford 2024 — EDX и новые диагностические методы — русский разбор]]
+- [[07 Научная база/Производные/Hearn 2024 — serial EDX — русский разбор|Hearn 2024 — serial EDX — русский разбор]]
 - [[07 Научная база/Производные/Hannaford 2024 — EDX и новые диагностические методы — русский разбор|Hannaford 2024 — EDX и новые диагностические методы — ограниченный русский разбор]]
