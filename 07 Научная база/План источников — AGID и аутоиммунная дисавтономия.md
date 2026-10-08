@@ -1,7 +1,7 @@
 ---
 id: literature-plan-agid-autoimmune-autonomic
 ntype: scientific-review
-status: in-progress
+status: active
 updated: 2026-10-08
 source_kind: literature-acquisition-plan
 confidence: curated
@@ -18,6 +18,16 @@ tags:
 > Цель — построить локальную доказательную базу, по которой агент сможет отличать обычную хроническую дисмоторику от иммунно-опосредованной автономной/энтеральной нейропатии и понимать, когда нужны objective autonomic/motility tests, targeted antibodies и cancer/Sjögren workup.
 >
 > Это не список анализов «сдать всё подряд».
+
+## Статус ядра
+
+**Основное научное ядро собрано.** Импортированы концептуальные AGID/AAG reviews, objective autonomic testing consensus, gAChR titer study, Sjögren guideline и PNS-Care criteria.
+
+Patient-specific применение:
+- [[10 Врачи и приёмы/План проверки AGID и аутоиммунной дисавтономии]];
+- [[10 Врачи и приёмы/AGID — рабочая матрица доказательств]].
+
+Дальнейшее расширение antibody literature должно быть **phenotype-triggered**, а не выполняться заранее без objective autonomic evidence.
 
 ## Клинические вопросы
 

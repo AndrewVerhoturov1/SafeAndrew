@@ -174,12 +174,6 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 
 Источник отделяет nodal/paranodal antibody neuropathies от classic CIDP и задаёт targeted gate: antibodies имеют смысл после подтверждения подходящего clinical/electrophysiological phenotype, а не как универсальный скрининг.
 
-### Hannaford et al. 2024 — EDX и новые diagnostic modalities
-
-- этап 1: [[07 Научная база/Источники/Hannaford 2024 — EDX и новые диагностические методы — карточка источника|карточка invited review]];
-- этап 2: [[07 Научная база/Производные/Hannaford 2024 — EDX и новые диагностические методы — русский разбор|ограниченный русский разбор]].
-
-Источник задаёт место imaging: EDX остаётся primary modality, а nerve ultrasound/MRI используются как complementary tools в конкретных задачах, включая atypical CIDP, compression/trauma и структурную локализацию.
 ## Источники по AGID и аутоиммунной дисавтономии
 
 ### Concept / clinical evidence
@@ -208,6 +202,48 @@ Dillingham 2016 задаёт фильтр качества нормативно�
 - [[07 Научная база/Темы/Sjogren и paraneoplastic pathways при sensory-autonomic phenotype]].
 
 Рабочий patient-specific plan: [[10 Врачи и приёмы/План проверки AGID и аутоиммунной дисавтономии]].
+
+Patient-specific evidence matrix: [[10 Врачи и приёмы/AGID — рабочая матрица доказательств]].
+
+## Источники по генетике нейропатии и кишечной дисмоторики
+
+### Genetic testing strategy
+
+- [[07 Научная база/Источники/Saporta 2026 — genetic testing peripheral neuropathy — карточка источника|Saporta 2026 — guideline по genetic testing inherited neuropathy]].
+
+### Mitochondrial / MNGIE-like
+
+- [[07 Научная база/Источники/MNGIE International Network 2021 — position paper — карточка источника|MNGIE International Network position paper]];
+- [[07 Научная база/Источники/MNGIE GeneReviews — TYMP — карточка источника|MNGIE GeneReviews — TYMP]];
+- [[07 Научная база/Источники/mtDNA maintenance defects GeneReviews — карточка источника|mtDNA maintenance defects overview]];
+- [[07 Научная база/Источники/POLG GeneReviews 2024 — карточка источника|POLG GeneReviews 2024]];
+- [[07 Научная база/Источники/RRM2B GeneReviews — карточка источника|RRM2B GeneReviews]].
+
+### Sensory-ataxia repeat expansion
+
+- [[07 Научная база/Источники/RFC1 GeneReviews 2026 — карточка источника|RFC1 GeneReviews 2026]].
+
+### CIPO / enteric neuromyopathy / visceral myopathy
+
+- [[07 Научная база/Источники/Bianco 2022 — enteric neuromyopathies genetics — карточка источника|Bianco 2022 — enteric neuromyopathies]];
+- [[07 Научная база/Источники/ACTG2 GeneReviews — visceral myopathy — карточка источника|ACTG2 visceral myopathy]];
+- [[07 Научная база/Источники/Fournier-Fabre 2022 — smooth muscle motility genes — карточка источника|Fournier & Fabre 2022 — smooth-muscle motility genes]];
+- [[07 Научная база/Источники/Basilisco 2024 — adult CIPO practical guide — карточка источника|Basilisco 2024 — adult CIPO practical guide]];
+- [[07 Научная база/Источники/London Classification 2010 — GI neuromuscular pathology — карточка источника|London Classification — GI neuromuscular pathology]].
+
+### Тематические синтезы
+
+- [[07 Научная база/Темы/Генетическая стратегия — нейропатия плюс тяжёлая дисмоторика ЖКТ]];
+- [[07 Научная база/Темы/MNGIE и MNGIE-like — когда и как проверять]];
+- [[07 Научная база/Темы/RFC1 — repeat-expansion ветка при sensory ataxia]];
+- [[07 Научная база/Темы/CIPO — enteric neuropathy против visceral myopathy — генетическая карта]];
+- [[07 Научная база/Темы/Полнослойная гистология кишечника — что должен оценить эксперт]].
+
+Patient-specific:
+- [[10 Врачи и приёмы/План генетического обследования нейропатии и CIPO]];
+- [[10 Врачи и приёмы/Генетика neuro-GI — рабочая матрица гипотез]].
+
+Cross-domain decision map: [[07 Научная база/Темы/Neuro-GI — immune-autonomic против genetic-neuromuscular причин]].
 
 ## Использовано в полном анализе первичных документов
 
